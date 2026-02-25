@@ -1,6 +1,6 @@
 {
-  "latest_version": "V8.0",
+  "latest_version": "V1.0",
   "update_available": true,
-  "download_url": "https://m.youtube.com/watch?v=E4WlUXrJgy4",
-  "message": "added security fixes & stair pressurization calculations"
+  "download_url": "https://github.com/darknopror-glitch/HVAC-Master-Suite/releases/download/exe/HVAC-Master-Suite-Setup-1.0.0.exe",
+  "message": "Full Release now available"
 }
